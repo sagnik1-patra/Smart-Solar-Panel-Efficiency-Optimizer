@@ -1,0 +1,20 @@
+{
+    "features": [
+        "AMBIENT_TEMPERATURE",
+        "MODULE_TEMPERATURE",
+        "IRRADIATION",
+        "HOUR",
+        "DAY",
+        "MONTH"
+    ],
+    "target": "EFFICIENCY",
+    "best_params": {
+        "hidden": 126,
+        "lr": 0.0020859337964284188,
+        "dropout": 0.10184428650082762
+    },
+    "metrics": {
+        "RMSE": 0.6133063804730593,
+        "R2": -0.5776944151409855
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "selected_features": [
+        "AMBIENT_TEMPERATURE",
+        "MODULE_TEMPERATURE",
+        "IRRADIATION"
+    ],
+    "params": {
+        "hidden1": 121,
+        "hidden2": 49,
+        "lr": 0.006220556385566893,
+        "dropout": 0.16412245445857804
+    },
+    "RMSE": 0.31690310382181197,
+    "R2": 0.11410074611241683
+}

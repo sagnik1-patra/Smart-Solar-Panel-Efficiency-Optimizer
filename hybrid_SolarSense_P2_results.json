@@ -1,0 +1,12 @@
+{
+    "Dataset": "Plant_2 (Merged)",
+    "Selected Features": [
+        "AMBIENT_TEMPERATURE",
+        "MODULE_TEMPERATURE",
+        "IRRADIATION"
+    ],
+    "Records": 67698,
+    "RMSE": 0.357678332680941,
+    "R2": 0.4621585757894773,
+    "Output File": "C:\\Users\\NXTWAVE\\Downloads\\Smart Solar Panel Efficiency Optimizer\\results\\hybrid_SolarSense_P2_predictions.csv"
+}
